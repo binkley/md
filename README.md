@@ -4,4 +4,4 @@
 
 # Markdown documents
 
-* [modern-java-practices](#modern-java-practices/)
+* _modern-java-practices_ &mdash; Moved to https://github.com/binkley/modern-java-practices
